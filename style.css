@@ -133,7 +133,7 @@ body {
 
 /* Item-3 (Services Section) */
 .item-3 {
-    grid-area: 3 / 1 / 4 / 2;
+    grid-area: 0 / 1 / 4 / 1;
     align-items: center;
     border: transparent;
 }
@@ -219,7 +219,7 @@ body {
 }
 
 .item-5 {
-    grid-area: 4 / 3 / 3 / 2;
+    grid-area: 3 / 1 / 3 / 2;
     border: transparent;
 }
 
